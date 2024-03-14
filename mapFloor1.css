@@ -1,0 +1,34 @@
+html{
+    overflow: none;
+}
+body{
+    background-image: url(img/map1Floor.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #D7BC8D;
+}
+h1 {
+    text-align: center;
+    font-size: 150px;
+    color: white;
+    font-family: Times New Roman;
+
+}
+button {
+    border: solid 5px;
+    color: #363B54;
+    background-color: transparent;
+    font-size: 50px;
+    font-family: Times New Roman;
+    margin: auto 50px auto  auto;
+    float: left;
+}
+.button{
+    text-align: left;
+    padding: 0px 0 0 50px;
+}
+#hidden{
+    margin-top: 1000px;
+    background-color: transparent;
+    color: #D7BC8D;
+}

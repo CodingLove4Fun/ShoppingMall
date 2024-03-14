@@ -1,0 +1,39 @@
+html{
+    overflow: none;
+}
+body{
+    background-image: url(img/1inside.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.button{
+    text-align: center;
+    padding: 500px 0 0 0;
+}
+.map{
+    text-align: center;
+    padding: 40px 0 0 0;
+    margin: 0 0 0 0;
+    position: relative;
+    bottom:200px
+    left:20px
+}
+#Map{
+    z-index: 10;
+}
+#arrowUp,
+#Map {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 200px;
+  left: 20px;
+  padding: 0 0 0 20px;
+}
+#container {
+  width: 100px;
+  height: 100px;
+  position: relative;
+  left: 20px;
+  padding: 0 0 0 20px;
+}

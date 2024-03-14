@@ -1,0 +1,92 @@
+html{
+    overflow: none;
+    background-color: black;
+}
+body{
+    background-image: url(img/1inside.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+h1 {
+    text-align: center;
+    font-size: 150px;
+    color: white;
+    font-family: Times New Roman;
+
+}
+#arrowUp {
+    border: none;
+    color: white;
+    background-color: transparent;
+    font-size: 50px;
+    font-family: Times New Roman;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    position: relative;
+    bottom: 550px;
+
+}
+.ArrowUp{
+    text-align: center;
+    padding: 500px 0 0 0;
+}
+.map{
+    text-align: center;
+    padding: 500px 0 0 0;
+    margin: 0 0 0 0;
+    position: relative;
+    top:200px
+    left:20px
+}
+#Map{
+   border: solid 2px ;
+    color: #65523F;
+    background-color: #D7BC8D;
+    font-size: 30px;
+    font-family: Times New Roman;
+}
+.ArrowRight{
+    text-align: right;
+    padding: 500px 0 0 0;
+}
+#arrowRight{
+    border: none;
+    color: white;
+    background-color: transparent;
+    font-size: 50px;
+    font-family: Times New Roman;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    position: relative;
+    bottom: 1400px;
+}
+.ArrowLeft{
+    text-align: left;
+    padding: 500px 0 0 0;
+}
+#arrowLeft{
+    border: none;
+    color: white;
+    background-color: transparent;
+    font-size: 50px;
+    font-family: Times New Roman;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    position: relative;
+    bottom: 2250px;
+}
+#arrowUb{
+    border: none;
+    color: white;
+    background-color: transparent;
+    font-size: 50px;
+    font-family: Times New Roman;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    position: relative;
+    bottom: 3400px;
+
+}
+.ArrowUb{
+    text-align: left;
+    padding: 500px 0 0 0;

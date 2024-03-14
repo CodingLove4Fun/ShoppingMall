@@ -1,0 +1,77 @@
+html{
+    overflow: none;
+    background-color: black;
+}
+body{
+    background-image: url(img/shops.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+h1 {
+    text-align: center;
+    font-size: 150px;
+    color: white;
+    font-family: Times New Roman;
+
+}
+#arrowUp {
+    border: none;
+    color: white;
+    background-color: transparent;
+    font-size: 50px;
+    font-family: Times New Roman;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    position: relative;
+    bottom: 200px;
+
+}
+.ArrowUp{
+    text-align: center;
+    padding: 500px 0 0 0;
+}
+.ArrowRight{
+    text-align: right;
+    padding: 500px 0 0 0;
+}
+#arrowRight{
+    border: none;
+    color: white;
+    background-color: transparent;
+    font-size: 50px;
+    font-family: Times New Roman;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    position: relative;
+    bottom: 1000px;
+}
+.ArrowLeft{
+    text-align: left;
+    padding: 500px 0 0 0;
+}
+#arrowLeft{
+    border: none;
+    color: white;
+    background-color: transparent;
+    font-size: 50px;
+    font-family: Times New Roman;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    position: relative;
+    bottom: 1850px;
+}
+#arrowUb{
+    border: none;
+    color: white;
+    background-color: transparent;
+    font-size: 50px;
+    font-family: Times New Roman;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    position: relative;
+    bottom: 3400px;
+
+}
+.ArrowUb{
+    text-align: left;
+    padding: 500px 0 0 0;

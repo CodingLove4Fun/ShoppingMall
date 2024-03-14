@@ -1,0 +1,29 @@
+html{
+    overflow: none;
+}
+body{
+    background-image: url(img/Garden.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+h1 {
+    text-align: center;
+    font-size: 150px;
+    color: white;
+    font-family: Times New Roman;
+
+}
+button {
+    border: none;
+    color: white;
+    background-color: transparent;
+    font-size: 50px;
+    font-family: Times New Roman;
+    margin: auto;
+
+}
+.button{
+    text-align: center;
+    padding: 500px 0 0 50px;
+}
